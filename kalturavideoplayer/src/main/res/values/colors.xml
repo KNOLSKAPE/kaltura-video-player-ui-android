@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000 </color>
+    <color name="transparentRatingBar">#99000000 </color>
+    <color name="white">#ffffff</color>
+    <color name="ratingColor">#ffca56 </color>
+
+
+    <color name="primary_color">#d44980</color>
+    <color name="secondary_color">#2c4bb7</color>
+    <color name="secondary_dark">#223b92</color>
+    <color name="black">#000000</color>
+    <color name="video_bg">#141414</color>
+    <color name="black_30">#4c000000</color>
+
+    <color name="grey1">#091027</color>
+    <color name="grey2">#2e344b</color>
+    <color name="grey3">#575E79</color>
+    <color name="grey4">#979eb7</color>
+    <color name="grey5">#d5d9e7</color>
+    <color name="video_option_bg">#c72f2f2f</color>
+    <color name="rating_color">#ffca56</color>
+    <color name="textgrey1">#c4c9da</color>
+    <color name="scarlet">#D0021B</color>
+    <color name="apple_green">#76CA1A</color>
+    <color name="dark_sky_blue">#4a90e2</color>
+    <color name="orangey_yellow">#f8ac1c</color>
+    <color name="dark">#2f364d</color>
+    <color name="white_85">#d9ffffff</color>
+    <color name="grey1_85">#d9091027</color>
+    <color name="darkish_pink_two">#d54d83</color>
+    <color name="dark_grey_blue">#384062</color>
+    <color name="steel">#7e818f</color>
+    <color name="slate_grey">#5b5c61</color>
+    <color name="black_other">#282828</color>
+    <color name="dark_grey_blue_two">#323955</color>
+    <color name="black_three">#313131</color>
+    <color name="slate_two">#485465</color>
+    <color name="slate_grey_two">#595e71</color>
+    <color name="steel_two">#7b7f8d</color>
+    <color name="bluey_grey_two">#9a9eaf</color>
+    <color name="light_periwinkle">#d5d8e3</color>
+</resources>

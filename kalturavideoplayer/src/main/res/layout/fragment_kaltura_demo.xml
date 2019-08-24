@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/video_nav"
+        android:elevation="1dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:visibility="gone"
+        tools:visibility="visible"
+        android:layout_height="45dp">
+        <FrameLayout
+            android:id="@+id/back_btn"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:elevation="1dp"
+            android:scaleType="center"
+            android:layout_gravity="top|start">
+            <ImageView
+                android:tint="#ffffff"
+                android:src="@drawable/back_btn"
+                android:layout_gravity="center"
+                android:layout_width="24dp"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+        <TextView
+            android:id="@+id/video_title"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            tools:text="Title of the video comes here.." />
+        <FrameLayout
+            android:id="@+id/options_menu"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:elevation="1dp"
+            android:scaleType="center"
+            android:layout_gravity="top|end">
+            <ImageView
+                android:layout_gravity="center"
+                android:src="@drawable/three_dots"
+                android:layout_width="24dp"
+                android:layout_height="wrap_content" />
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <com.knolskape.kalturavideoplayer.kaltura.KalturaVideoPlayer
+        android:id="@+id/video_player"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</FrameLayout>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kaltura Video Player</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="watch_video_btn">WATCH VIDEO</string>
+    <string name="title_activity_assessment">AssessmentActivity</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="time_left_format">-%s</string>
+    <string name="video_time_format">00:00</string>
+    <string name="video_quality_auto">Auto</string>
+    <string name="quotes_laoder_author">-%s</string>
+</resources>
