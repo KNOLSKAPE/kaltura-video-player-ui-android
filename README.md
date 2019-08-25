@@ -37,13 +37,13 @@ Fragment f = KalturaVideoFragment.getInstance(config);
 
 1. **Partner ID** - Partner ID for your project
 2. **Subpartner ID** - subpartner ID for your project
-3. **Autoplay **- if set to `true`, it will start playing the video automatically, else shows a thumbnail of the video
+3. **Autoplay** - if set to `true`, it will start playing the video automatically, else shows a thumbnail of the video
 4. **Media Source ID** - Media Source ID,
 5. **Start position** - Start position in seconds
 6. **Kaltura Entry ID** - Kaltura Entry ID of the video 
 7. **Source URL (optional)** - If provided, the player will ignore all params passed in partner ID, subpartner ID and entry ID. This is a direct streaming URL to the video.
 8. **Thumnail Height** - Height of the thumbnail to be displayed. Decided as per the layout of your view
-9. **Thumnail Width **- Width of the thumbnail to be displayed. Decided as per the layout of your view
+9. **Thumnail Width** - Width of the thumbnail to be displayed. Decided as per the layout of your view
 
 
 ## Screenshots
