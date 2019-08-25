@@ -50,5 +50,7 @@ Fragment f = KalturaVideoFragment.getInstance(config);
 Coming soon
 
 ![Portrait](https://drive.google.com/uc?authuser=0&id=1EFwAXxEyQLKSaDqW8GPs85lgjJx5wClN&export=download)
+![Landscape](https://drive.google.com/uc?authuser=0&id=1l325U6FmjvYR081GHCDJwdwFX85D-vBQ&export=download)
+![Options](https://drive.google.com/uc?authuser=0&id=1nWKgawqev3-v6SiKdmwBwYuTPc1wo_xa&export=download)
 
 
