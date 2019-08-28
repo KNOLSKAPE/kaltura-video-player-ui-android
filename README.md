@@ -2,11 +2,22 @@
 Video Player UI for Kaltura Android SDK
 
 ## Integrate in your project
-1. Clone this library
-2. Select File -> New -> Import Module
-3. Navigate to the library folder and select the directory named `kalturavideoplayer`
-4. Go to your app's build.gradle and add the following line in dependencies `implementation project(path: ':kalturavideoplayer')`
-5. Sync project
+
+**Step-1**: Add it in your root build.gradle at the end of repositories:
+```
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+}
+```
+**Step-2**: Add the dependency
+```
+dependencies {
+  implementation 'com.github.KNOLSKAPE:kaltura-video-player-ui-android:Tag'
+}
+```
 
 ## Usage
 This library provides a fragment that consists of the player. To use this follow these steps:
