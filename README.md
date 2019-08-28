@@ -15,7 +15,7 @@ allprojects {
 **Step-2**: Add the dependency
 ```
 dependencies {
-  implementation 'com.github.KNOLSKAPE:kaltura-video-player-ui-android:Tag'
+  implementation 'com.github.KNOLSKAPE:kaltura-video-player-ui-android:v0.2'
 }
 ```
 
